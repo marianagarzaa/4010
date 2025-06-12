@@ -1,0 +1,21 @@
+{
+  "name": "4010 Spruce",
+  "short_name": "4010 Spruce",
+  "description": "Roommate app for 4010 Spruce house",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
