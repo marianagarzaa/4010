@@ -20,7 +20,7 @@ const ROOMMATES = [
   { id: "mariana", name: "Mariana", color: "bg-pink-500" },
   { id: "sofia", name: "Sofia", color: "bg-purple-500" },
   { id: "jaimee", name: "Jaimee", color: "bg-blue-500" },
-  { id: "dovi", name: "Dovi", color: "bg-green-500" },
+  { id: "dovi", name: "Dovi / Helen!", color: "bg-green-500" },
   { id: "christina", name: "Christina", color: "bg-yellow-500" },
   { id: "selah", name: "Selah", color: "bg-red-500" },
 ]
